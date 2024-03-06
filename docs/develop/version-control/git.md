@@ -1,1 +1,0 @@
-<FAIcon icon="fa-brands fa-github" size="4x" />

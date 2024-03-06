@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# All Terms
+
 [Template](/)
 
 [Glitch](/)  是一個以 Web 應用為重點的線上開發平台。它提供了一個簡單的儀表板介面，可輕鬆建立和部署 Web 應用程式。Glitch 還支援即時編輯和預覽，使團隊能夠方便地協作開發。

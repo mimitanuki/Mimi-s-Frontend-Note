@@ -93,8 +93,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Notes',
-                to: '/docs/notes',
+                label: 'All-Terms',
+                to: '/docs/all-terms',
               },
             ],
           },

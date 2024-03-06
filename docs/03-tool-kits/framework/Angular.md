@@ -1,0 +1,1 @@
+<IIcon icon="vscode-icons:file-type-angular" height="50" />
