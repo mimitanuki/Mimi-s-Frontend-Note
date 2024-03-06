@@ -10,3 +10,13 @@
 <FAIcon icon="fa-brands fa-github" size="4x" />
 
 <IIcon icon="logos:vue" height="50" />
+
+
+{
+  "label": "09-database",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Frontend 09-database reference"
+  }
+}

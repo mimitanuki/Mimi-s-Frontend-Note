@@ -1,0 +1,8 @@
+{
+  "label": "environment",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Frontend environment reference"
+  }
+}

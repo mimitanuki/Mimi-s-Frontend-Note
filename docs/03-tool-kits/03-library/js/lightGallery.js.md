@@ -1,0 +1,1 @@
+[text](https://www.lightgalleryjs.com/)
